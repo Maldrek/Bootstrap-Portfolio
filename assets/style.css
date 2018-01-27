@@ -1,0 +1,17 @@
+body {
+    background-image:url("images/Backgrounds/footer_lodyas.png");
+    background-repeat:repeat;
+
+}
+
+.headshot {
+    height:205px;
+    width:200px;
+}
+
+
+
+.link{
+    height:50px;
+    width:50px;
+}
