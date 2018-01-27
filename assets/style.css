@@ -4,6 +4,10 @@ body {
 
 }
 
+header {
+    color:white;
+}
+
 .footer {
     color:#705d5d;
     background-color:#705d5d;
@@ -12,6 +16,11 @@ body {
 .headshot {
     height:205px;
     width:200px;
+}
+
+a{
+    color:white;
+    text-decoration:none;
 }
 
 
