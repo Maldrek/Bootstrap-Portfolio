@@ -4,6 +4,11 @@ body {
 
 }
 
+.footer {
+    color:#705d5d;
+    background-color:#705d5d;
+}
+
 .headshot {
     height:205px;
     width:200px;
@@ -14,4 +19,29 @@ body {
 .link{
     height:50px;
     width:50px;
+}
+
+.NYC {
+    height:225px;
+}
+
+.Chicago {
+    height:225px;
+}
+
+.MN {
+    height:225px;
+}
+
+.Seattle {
+    height:225px;
+}
+
+.KC {
+    height:225px;
+}
+
+.container-porfolio {
+    background-color:white;
+    background: white;
 }
